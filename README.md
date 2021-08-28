@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align="center" width="100%" src="maeve.svg">
 
-<!--
-**MaeveLaOuf/MaeveLaOuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 **Skills**
+- 💻 JavaScript, Java, C# & C++
+- ⚙️ React & Vue & Cypress
+- 💼 HTML & CSS
+- 📚 MySQL & Mongo
 
-Here are some ideas to get you started:
+## ☎️ **Contact**
+- [Maeve£#0001](https://discord.com/users/700362756372562081) on Discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ **Miscellaneous**
+![MaeveLaOuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaeveLaOuf&show_icons=true&theme=dracula)
+
+---
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=MaeveLaOuf&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/MaeveLaOuf/MaeveLaOuf?color=black&logo=github" />
+</p>
